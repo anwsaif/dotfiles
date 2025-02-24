@@ -1,0 +1,7 @@
+*
+!.config/kdeglobals
+!.config/plasmarc
+!.config/plasmashellrc
+!.config/kwinrc
+!.config/plasma-org.kde.plasma.desktop-appletsrc
+!.config/klassy/
